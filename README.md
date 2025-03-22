@@ -1,6 +1,6 @@
-Игра змейка
+Snake game
 
-Написана на python , библиотекa pygame 
+Written in python, pygame library 
 
-запустить:
+Run:
 python GoGo.py
